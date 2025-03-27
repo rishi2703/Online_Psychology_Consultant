@@ -1,0 +1,87 @@
+[
+    {
+      "title": "Depression",
+      "description": "Depression is a mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in daily activities. There are times when going gets tough, and anything and everything one does may end up making them feel more stressed. With counseling for depression, anxiety and stress, one can learn to identify unhealthy thoughts and behavioral patterns. It also offers you to challenge your disruptive patterns, helps you build motivation, and breaks your goals into smaller achievable milestones. Counselling provides a safe space to talk about your concerns and allows you to develop healthy coping mechanisms..",
+      "symptoms": [
+        "Persistent sadness or low mood",
+        "Loss of interest or pleasure in activities",
+        "Fatigue or lack of energy",
+        "Difficulty concentrating or making decisions",
+        "Changes in appetite or weight",
+        "Feelings of worthlessness or guilt",
+        "Sleep disturbances (insomnia or oversleeping)",
+        "Thoughts of self-harm or suicide"
+      ]
+    },
+    {
+      "title": "Anxiety",
+      "description": "Anxiety is a mental health condition characterized by excessive and persistent worry or fear. It can manifest in physical, emotional, and behavioral symptoms, often interfering with daily life. These concerns could arise from internal factors like low confidence, inadequate social skills, and an inability to be productive at work. Counselling will allow you to deal with these concerns by helping you manage your energy and become better at managing internal and external factors of stress.",
+      "symptoms": [
+        "Restlessness or feeling on edge",
+        "Rapid heart rate or palpitations",
+        "Excessive worry about various aspects of life",
+        "Muscle tension",
+        "Irritability",
+        "Difficulty sleeping",
+        "Panic attacks",
+        "Avoidance of situations that cause anxiety"
+      ]
+    },
+    {
+      "title": "Marital Issues",
+      "description": "Marital issues refer to conflicts or challenges faced by couples in their relationship. These can arise from communication problems, financial stress, or differing expectations, leading to emotional distress. It helps one explore and understand how unique elements and experiences of individuals may provoke friction in the relationship and how to repair the rupture caused by it. And sometimes, it is about building a healthy relationship with ourselves",
+      "symptoms": [
+        "Frequent arguments or disagreements",
+        "Lack of communication or miscommunication",
+        "Emotional distance or withdrawal",
+        "Diminished intimacy or affection",
+        "Feelings of resentment or frustration",
+        "Difficulty resolving conflicts",
+        "Trust issues or jealousy",
+        "Considering separation or divorce"
+      ]
+    },
+    {
+      "title": "Childhood Trauma",
+      "description": "Childhood trauma refers to deeply distressing or disturbing experiences during childhood, such as abuse, neglect, or witnessing violence. These experiences can have long-lasting psychological effects.Trauma Counseling provides a safe space to talk about difficult emotions and past events with trauma-informed therapists. It offers a space to make sense of your past and construct a meaningful narrative. Your therapist will help you develop a self-care routine to deal with current symptoms and also equip you with healthy coping strategies to help you deal with future stressful events.",
+      "symptoms": [
+        "Flashbacks or intrusive memories",
+        "Emotional numbness or detachment",
+        "Difficulty trusting others",
+        "Hypervigilance or being easily startled",
+        "Low self-esteem or self-worth",
+        "Difficulty forming healthy relationships",
+        "Anger or emotional outbursts",
+        "Persistent feelings of shame or guilt"
+      ]
+    },
+    {
+      "title": "Obsessive-Compulsive Disorder (OCD)",
+      "description": "OCD is a mental health condition characterized by intrusive, unwanted thoughts (obsessions) and repetitive behaviors or mental acts (compulsions) performed to reduce distress.Through various therapeutic approaches, you can learn to improve focus, enhance organizational skills, and regulate emotions. Ultimately, the therapy aims to foster greater academic, professional, and personal success, leading to an improved overall quality of life.",
+      "symptoms": [
+        "Recurrent, unwanted thoughts or fears",
+        "Compulsive behaviors such as excessive cleaning or checking",
+        "Fear of contamination or germs",
+        "Obsessive need for symmetry or order",
+        "Avoidance of situations that trigger obsessions",
+        "Significant distress or impairment in daily life",
+        "Time-consuming rituals",
+        "Difficulty controlling obsessive thoughts"
+      ]
+    },
+    {
+      "title": "Post-Traumatic Stress Disorder (PTSD)",
+      "description": "PTSD is a mental health condition triggered by experiencing or witnessing a traumatic event. It can lead to intense emotional and physical reactions, even long after the event has occurred.Stepping into new roles like motherhood and in-laws, along with biological concerns like PCOS and postpartum depression deserve proper professional attention. Therapy can help you comprehend the underlying problems you are currently struggling with and will provide you with the strategies and tools you need to change your behaviours or deal with distressing events. It will help you in identifying any unhelpful thought patterns that lead to difficult emotions, and unhealthy behaviours arising it.",
+      "symptoms": [
+        "Intrusive memories or flashbacks",
+        "Nightmares or sleep disturbances",
+        "Avoidance of reminders of the trauma",
+        "Negative changes in mood or cognition",
+        "Feelings of detachment or estrangement",
+        "Hyperarousal (e.g., irritability, being easily startled)",
+        "Difficulty concentrating",
+        "Persistent feelings of fear or helplessness"
+      ]
+    }
+  ]
+  
