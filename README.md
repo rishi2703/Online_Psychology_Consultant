@@ -33,6 +33,10 @@ npm install
 
 # Run the project
 npm start
+
+
+
+
 👨‍💻 Author
 Rishi Vijaywargiya
 📧 rishi2vijaybhav@gmail.com
